@@ -6,6 +6,9 @@ npx create-next-app@latest ./
 ## Important notes about next13
 
 => In the app folder we have a page folder which contains all the pages of the app, and routing is done automatically by nextjs
+=>By default all the components are server side render, but we can change a component to client side render by using the 'use client'
+=>In the public folder we have all the static files like images, fonts, etc and can be accessed by src="/image.png"
+=>Navigation bar and footer will be used using nextJs layout.tsx file
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
