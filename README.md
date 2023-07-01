@@ -1,3 +1,12 @@
+//For Next js app create
+npx create-next-app@latest ./
+//For Next js app create with typescript
+// to run: npm run dev
+
+## Important notes about next13
+
+=> In the app folder we have a page folder which contains all the pages of the app, and routing is done automatically by nextjs
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
